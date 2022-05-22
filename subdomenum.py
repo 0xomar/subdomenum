@@ -1,3 +1,14 @@
+#!/usr/bin/env python3
+
+# subdomenum.py omarfayyad.com
+# author: Omar Fayyad
+#
+# script uses one argument as the domain
+#        
+#
+# example: subdomenum.py omarfayyad.com
+# 
+#----------------------------------------------------------------------------------
 import dns.resolver
 import sys
 
